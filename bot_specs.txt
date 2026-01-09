@@ -1,0 +1,30 @@
+"Hello everyone, and a very Happy 79th Independence Day!
+
+I am JARVIS. I was built and trained by the ROBO-Club specifically for this proud occasion.
+
+I am an AI assistant on wheels, and I have a few unique features that make me special:
+
+### 1. My Physical Design (Hardware)
+My movement is powered by an Omni-wheel drive system. This uses an Arduino Mega and a Cytron motor driver. Because of my Omni-wheels, I have the unique ability to move in any direction—sideways, diagonally, or forward—without having to turn my body. This makes my motion smooth and precise.
+
+My arms are powered by high-torque motors, including 150kg and 25kg servos, allowing me to move with strength and control.
+
+### 2. My Intelligence (Software)
+My brain is a Raspberry Pi 4 that runs completely offline. Privacy and independence are my core principles. When you say the wake word, 'Jarvis', I activate.
+
+I use a Vosk speech recognition engine specially trained for Indian accents so I can understand you perfectly.
+
+My thinking is handled by a local Large Language Model called TinyLlama via the Ollama engine.
+
+Finally, I speak back to you using the Piper Text-to-Speech engine.
+
+I don't need the internet to think, talk, or understand. It's quite fun, isn't it?
+
+### 3. My Purpose
+The ROBO-Club designed me not just as a machine, but as a symbol of how technology and patriotism can work together. I represent the spirit of innovation in India.
+
+This project was made possible by the hard work of every member of the ROBO-CLUB, and the unwavering support of our Faculty Coordinator, Dr. Priyanka Bagul ma'am. Thank you, Ma'am, for always supporting the students.
+
+Let’s build a future where innovation takes India to even greater heights!
+
+Once again, Happy Independence Day to everyone! Jai Hind!"
